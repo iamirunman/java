@@ -11,7 +11,6 @@ Challenge 5 - DataStructures
 Challenge 6 - RecursionSee
 Extra Credit - PinkBox
 
-
 CS 211 - University of Illinois Chicago
 mideterm - Live Coding Midterm
 final - Live Coding Final
